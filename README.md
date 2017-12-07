@@ -1,2 +1,5 @@
-# Kruger1.github.io
+# Сайты Саидова Фируза
 Мой первый опубликованный сайт
+
+
+[Сайт №1](https://kruger1.github.io/project/src/index.html "Простенький адаптивный лендинг")
