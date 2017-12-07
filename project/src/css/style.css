@@ -1,0 +1,53 @@
+h1 span{
+	display: block;
+}
+h1, h2{
+	font-size: 24px;
+	line-height: 1.5;
+}
+h1 strong{
+	font-weight: 900;
+}
+.form input{
+	margin-bottom: 11px;
+}
+.video{
+	margin-bottom: 20px;
+}
+.form-header{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 40px;
+}
+.header{
+	margin-bottom: 60px;
+}
+.form{
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+.btn{
+	background-color: #2727d9;
+	margin-bottom: 16px;
+}
+h2{
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-bottom: 87px;
+}
+.section{
+	margin-top: 100px;
+}
+.pic{
+	height: 160px;
+	margin-bottom: 30px;
+}
+.pic img{
+	height: 75px;
+}
+.f{
+	margin-bottom: 20px;
+}
+.face{
+	margin-top: 20px;
+}
